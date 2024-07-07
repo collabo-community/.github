@@ -1,5 +1,5 @@
 # @collabo-community/.github
-This is the repository used to configure the Collabo Community GitHub profile.
+This is the repository used to configure the Collabo Community GitHub organisation profile.
 
 #
 Collabo Community resource documentation is live at: [resources.collabocommunity.com](https://resources.collabocommunity.com)
