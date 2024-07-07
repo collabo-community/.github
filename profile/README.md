@@ -1,6 +1,6 @@
-📖 To visit community Documentation: [click on this link](https://resources.collabocommunity.com)
+📖 To visit community documentation: [Click on this link](https://resources.collabocommunity.com)
 #
-🏡 To join community & project conversations: [click on this link](https://resources.collabocommunity.com/p/vmg4PL1ozeI435/Community-and-Documentation)
+🏡 To join community & project conversations: [Click on this link](https://resources.collabocommunity.com/p/vmg4PL1ozeI435/Community-and-Documentation)
 
 <!--
 ## Hi there 👋
