@@ -1,3 +1,8 @@
+
+![Linkedin-Banner-1b-cropped](https://github.com/user-attachments/assets/23b85966-405e-4a66-910e-6f9d96618a4a)
+
+#
+
 📖 To visit community documentation: [click on this link](https://resources.collabocommunity.com)
 #
 🏡 To join community & project conversations: [click on this link](https://resources.collabocommunity.com/p/vmg4PL1ozeI435/Community-and-Documentation)
