@@ -3,9 +3,12 @@
 
 #
 
-📖 To visit community documentation: [click on this link](https://resources.collabocommunity.com)
+📖 To visit community documentation and join project conversations: [resources.collabo.community](https://resources.collabo.community)
+
+<!--
 #
-🏡 To join community & project conversations: [click on this link](https://resources.collabocommunity.com/p/vmg4PL1ozeI435/Community-and-Documentation)
+🏡 To join community & project conversations go to: [click on this link](https://resources.collabocommunity.com/p/vmg4PL1ozeI435/Community-and-Documentation)
+-->
 
 <!--
 ## Hi there 👋
