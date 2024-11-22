@@ -3,7 +3,7 @@
 
 #
 
-📖 To visit community documentation and join project conversations: [resources.collabo.community](https://resources.collabo.community)
+📖 Visit community documentation and join project conversations here: [resources.collabo.community](https://resources.collabo.community)
 
 <!--
 #
