@@ -1,5 +1,9 @@
 
-![Linkedin-Banner-1b-cropped](https://github.com/user-attachments/assets/23b85966-405e-4a66-910e-6f9d96618a4a)
+![Community building and collaboration image](https://github.com/user-attachments/assets/23b85966-405e-4a66-910e-6f9d96618a4a)
+
+#
+
+*Community building and collaboration Image: [Image Attribution](https://resources.collabo.community/p/gciMw91qU6jJ23/Attributions)*
 
 #
 
